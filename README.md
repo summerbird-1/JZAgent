@@ -1,4 +1,4 @@
-# ZXAgent
+# JZAgent
 
 An simple agent framework based on [modelscope-agent](https://github.com/modelscope/modelscope-agent) and made some improvement on it. Some inspiration also comes from [XAgent](https://github.com/OpenBMB/XAgent). This project is just for learning.
 
